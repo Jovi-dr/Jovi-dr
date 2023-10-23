@@ -48,11 +48,13 @@ I'm an aspiring Full-Stack Developer with a focus on front-end development. I'm 
 
 **Ideas** is a platform for companies with 100+ employees, enabling seamless idea sharing and coordination to boost creativity, engagement, and process improvement built with **TypeScript, React and Java**. This project demonstrates my ability to **integrate front-end and back-end components and collaborate effectively within a team.** You can check out the repository [here](https://github.com/ptatarczuk/Ideas).
 
-### [Movie app](https://github.com/Jovi-dr/Food-Hero)
+### [Movie app](https://github.com/Jovi-dr/Movie-App)
 
 
 **Movie app** is a **MERN stack project** developed collaboratively, showcasing our skills in **full-stack development** and providing a user-friendly platform for exploring and rating movies.  You can check out the repository [here](https://github.com/Jovi-dr/Movie-App).
 
+
+### [Food Hero](https://github.com/Jovi-dr/Food-Hero)
 **Food Hero** is a **MERN stack project** is website of a non-governmental organization that connects people who want to donate food with those who need it. You can check out the repository [here](https://github.com/Jovi-dr/Food-Hero).
 
 

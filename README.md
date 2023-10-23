@@ -6,11 +6,15 @@ I'm an aspiring Full-Stack Developer with a focus on front-end development. I'm 
 
 
 - 🔭 I’m currently working on **getting my first commercial experience as Junior Fullstack Developer / Junior Frontend Developer**.
-- 🌱 I’m currently learning **Typescript**.
-- 👯 I’m looking to collaborate on projects related to **Javascript, Typescript, React** or anything that will help me further develop my coding skills.
+- 🌱 I’m currently learning **Typescript** to enhance my frontend development skills. In the future, I aim to delve into **Angular** as well.
+- 👯 I’m looking to collaborate on projects related to **Javascript, Typescript, React**  or any opportunities that will help me expand my proficiency in web development.
+- 💬 Ask me about MERN stack, including MongoDB, Express, React, and Node.js, as well as my ongoing exploration of CSS, HTML, and Material UI.
+- ⚡ Fun fact: In my free time, I enjoy reading books about social psychology and wakeboarding.
+
+<br/>
+<br/>
 
 # Tech Stack 🧠
-
 ### Programming Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -32,6 +36,9 @@ I'm an aspiring Full-Stack Developer with a focus on front-end development. I'm 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br/>
+<br/>
 
 
 # Featured Projects 💻

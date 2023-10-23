@@ -46,7 +46,5 @@ I'm an aspiring Full-Stack Developer with a focus on front-end development. I'm 
 
 **Movie app** is a **MERN stack project** developed collaboratively, showcasing our skills in **full-stack development** and providing a user-friendly platform for exploring and rating movies.  You can check out the repository [here](https://github.com/ptatarczuk/movie_app).
 
-## Get in Touch 📬
-- **[LinkedIn]**(your_linkedin_profile_link)
 
 

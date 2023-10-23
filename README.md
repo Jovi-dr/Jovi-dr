@@ -48,10 +48,10 @@ I'm an aspiring Full-Stack Developer with a focus on front-end development. I'm 
 
 **Ideas** is a platform for companies with 100+ employees, enabling seamless idea sharing and coordination to boost creativity, engagement, and process improvement built with **TypeScript, React and Java**. This project demonstrates my ability to **integrate front-end and back-end components and collaborate effectively within a team.** You can check out the repository [here](https://github.com/ptatarczuk/Ideas).
 
-### [Movie app](https://github.com/ptatarczuk/movie_app)
+### [Movie app](https://github.com/CodecoolGlobal/freestyle-mern-project-react-mnikel)
 
 
-**Movie app** is a **MERN stack project** developed collaboratively, showcasing our skills in **full-stack development** and providing a user-friendly platform for exploring and rating movies.  You can check out the repository [here](https://github.com/ptatarczuk/movie_app).
+**Movie app** is a **MERN stack project** developed collaboratively, showcasing our skills in **full-stack development** and providing a user-friendly platform for exploring and rating movies.  You can check out the repository [here](https://github.com/CodecoolGlobal/freestyle-mern-project-react-mnikel).
 
 
 
